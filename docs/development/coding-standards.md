@@ -771,4 +771,4 @@ public virtual async Task<List<CourseDto>> GetPopularCoursesAsync()
 
 ---
 
-🎯 **Tiếp theo**: Xem [API Documentation](./api-documentation.md) để hiểu về cách thiết kế và document APIs.
+🎯 **Tiếp theo**: Xem [Deployment Guide](../deployment/overview.md) để hiểu về cách triển khai ứng dụng lên production.
