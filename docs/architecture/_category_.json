@@ -1,0 +1,8 @@
+{
+  "label": "🏗️ Kiến trúc hệ thống",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Thiết kế kiến trúc tổng thể và các component của hệ thống JLPT Learning App."
+  }
+}

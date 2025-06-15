@@ -1,0 +1,8 @@
+{
+  "label": "💻 Phát triển",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Hướng dẫn phát triển, coding standards và best practices cho dự án JLPT Learning App."
+  }
+}
