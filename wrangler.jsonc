@@ -1,0 +1,5 @@
+{
+    "name": "worker-name",
+    "compatibility_date": "2025-06-15",
+    "main": "src/components/HomepageFeatures/index.tsx"
+}
